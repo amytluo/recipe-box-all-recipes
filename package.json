@@ -20,6 +20,9 @@
   "permissions": [
     "https://tranquil-shelf-76543.herokuapp.com/"
   ],
+  "engines": {
+    "node": "10.16.x"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
